@@ -11,6 +11,6 @@ spec:
       version: "0.1.0-develop"
       sourceRef:
         kind: HelmRepository
-        name: app-poc
+        name: stable
         namespace: flux-system
       interval: 1m
